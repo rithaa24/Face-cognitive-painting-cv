@@ -93,7 +93,7 @@ This project is not explicitly licensed, but the code provided is likely under a
 <!-- Medium image -->
 <img src="Pictures/Screenshot 2025-07-07 202814.png" width="500">
 
-
+<img src="Pictures/Screenshot 2025-07-07 203453.png" width="500">
 ---
 
 <div align="center">
