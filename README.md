@@ -91,7 +91,7 @@ This project is not explicitly licensed, but the code provided is likely under a
 ## Pictures
 
 <!-- Medium image -->
-<img src="Face-cognitive-painting-cv/Pictures/" width="500">
+<img src="Pictures/Screenshot 2025-07-07 202814.png" width="500">
 
 
 ---
