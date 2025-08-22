@@ -88,6 +88,11 @@ Contributions are welcome!  Please open an issue to discuss improvements or bug 
 
 This project is not explicitly licensed, but the code provided is likely under a permissive license (like MIT). Contact the owner for confirmation.
 
+## Pictures
+
+<!-- Medium image -->
+<img src="Face-cognitive-painting-cv/Pictures/" width="500">
+
 
 ---
 
